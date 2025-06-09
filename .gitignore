@@ -1,0 +1,26 @@
+# === FRONTEND ===
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node dependencies
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.env
+frontend/.env.local
+
+# Editor files
+.vscode/
+.idea/
+.DS_Store
+
+# === BACKEND ===
+
+backend/node_modules/
+backend/.env
+backend/.env.local
+backend/logs/

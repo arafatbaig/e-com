@@ -1,0 +1,25 @@
+# dependencies
+/node_modules
+
+# environment variables
+.env
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+
+# database files (if using SQLite - optional)
+*.sqlite
+*.sqlite3
+
+# Sequelize specific
+/src/migrations/*.js~
+/src/seeders/*.js~
+
+# editor settings
+.DS_Store
+*.swp
+.idea
+.vscode
