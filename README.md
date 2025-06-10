@@ -9,7 +9,7 @@ A full-stack basic e-commerce application built using **React (Redux-Saga)**, **
 ### Demo Video
 
 📽️ Watch the demo:  
-https://inventstore.in/wp-content/uploads/2024/07/63.webp
+https://www.loom.com/share/a6e54045bdc34f64b8767b6dfeaf406a?sid=e6a9f5fb-a02d-4690-9f27-3a151a096114
 
 
 
