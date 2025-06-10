@@ -4,7 +4,7 @@ A full-stack basic e-commerce application built using **React (Redux-Saga)**, **
 
 ---
 
-## 📸 Screenshots / Demo
+
 
 ### Demo Video
 
