@@ -21,7 +21,7 @@ A full-stack basic e-commerce application built using **React (Redux-Saga)**, **
 - ✅ Product detail page with full information
 - ✅ Add to Cart / Remove / Update quantity
 - ✅ Order placement with customer details
-- ✅ Admin-side APIs for CRUD on Products & Categories
+- ✅ Adding , Delete , Update , Products APIs
 
 ---
 
