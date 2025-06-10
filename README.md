@@ -9,7 +9,7 @@ A full-stack basic e-commerce application built using **React (Redux-Saga)**, **
 ### Demo Video
 
 📽️ Watch the demo:  
-[![Watch the demo](https://www.loom.com/share/216819d2a64b430db50dee73304c5def?sid=49073a05-a917-4ecd-9567-52c307f58caa)
+(https://www.loom.com/share/216819d2a64b430db50dee73304c5def?sid=49073a05-a917-4ecd-9567-52c307f58caa)
 
 
 
